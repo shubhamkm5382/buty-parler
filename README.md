@@ -59,6 +59,7 @@ The engine reads these classes, generates CSS, and applies styles automatically.
 
 ```html
 <div class="nuskhe-bg-primary nuskhe-size-avatar nuskhe-rounded-full"></div>
+```
 
 ---
 

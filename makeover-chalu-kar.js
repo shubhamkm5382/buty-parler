@@ -1,4 +1,4 @@
-import { generateCSS } from "./makeup-artist.js";
+import { generateCSS } from "/makeup-artist.js";
 
 let styleTag = null;
 

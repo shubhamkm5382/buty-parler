@@ -1,4 +1,4 @@
-import { nuskhe } from "./butay-ke-nuskhe.js";
+import { nuskhe } from "/butay-ke-nuskhe.js";
 
 export function generateCSS(classes) {
   let css = "";
